@@ -1,0 +1,7 @@
+{
+  "name": "reconhecimento-voz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
